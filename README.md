@@ -16,7 +16,7 @@ Pixel Art Graphics: Experience a charming visual style with pixel art graphics, 
 Intuitive Interface: User-friendly interface designed for easy understanding and smooth gameplay.
 
 Demo Screenshots
-![Alt Text](lib/assets/screenshot/demoss1.png)
+![Alt Text](lib/assets/screenshots/demoss1.png)
 
 Getting Started
 Follow these instructions to set up and run the Pixel Board game on your local machine:
