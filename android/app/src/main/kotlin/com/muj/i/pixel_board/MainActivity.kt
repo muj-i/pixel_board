@@ -1,4 +1,4 @@
-package com.muj.pixel_board
+package com.muj.i.pixel_board
 
 import io.flutter.embedding.android.FlutterActivity
 
